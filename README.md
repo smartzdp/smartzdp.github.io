@@ -22,7 +22,4 @@ This is the person homepage of smartzdp.
 
 
 
-Social Accounts:
- * <a href="https://github.com/smartzdp/">GitHub</a>
- * <a href="https://leetcode.com/smartzdp/">LeetCode</a>
- * <a href="https://www.kaggle.com/smartzdp/">Kaggle</a>
+Social Accounts: <a href="https://github.com/smartzdp/">GitHub</a>, <a href="https://leetcode.com/smartzdp/">LeetCode</a>, <a href="https://www.kaggle.com/smartzdp/">Kaggle</a>
