@@ -8,6 +8,7 @@ This is the person homepage of smartzdp.
     * <a href="https://smartzdp.github.io/qishicpc/ds004/">4th Data Structure Study Group</a>
   * Data Application Lab:
     * <a href="https://smartzdp.github.io/dataapplab/bigdata/">Big Data for Data Scientist</a>
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Course">Data Scientist Bootcamp</a> (In Progress)
 * Projects
   * QiShi Career Path Club:
     * <a href="">In Progress</a>
