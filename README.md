@@ -18,4 +18,4 @@ This is the person homepage of smartzdp.
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project">Capstone Project #1 - FinTech</a> (In Progress)
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project">Capstone Project #2 - NLP</a> (In Progress)
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project">Capstone Project #3 - Recommender System</a> (In Progress)
-    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5">M5 Forecasting - Accuracy</a> (In Progress)
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5">Kaggle M5 Forecasting - Accuracy</a> (In Progress)
