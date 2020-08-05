@@ -1,5 +1,5 @@
-## QiShi Career Path Club|
-7th Algorithm Study Group
+## QiShi Career Path Club |
+ 7th Algorithm Study Group
 
 * <a href="https://www.qishicpc.com/activities/profile/146/">Course Website</a>
 * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/7th%20Algorithm%20Study%20Group">GitHub Link</a>
