@@ -13,7 +13,7 @@ This is the person homepage of smartzdp.
 * Projects
   * QiShi Career Path Club:
     * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/3rd%20Crypto%20Project%20Research%20Group">Crypto Quantitative Trading</a> (In Progress)
-    * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/4th%20Kaggle%20Project%20Training%20Group">Kaggle Project</a> (Start Soon)
+    * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/4th%20Kaggle%20Project%20Training%20Group">Kaggle Project</a> (Starting Soon)
   * Data Application Lab:
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project">Capstone Project #1 - FinTech</a> (In Progress)
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project">Capstone Project #2 - NLP</a> (In Progress)
