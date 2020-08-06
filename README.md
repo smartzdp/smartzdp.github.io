@@ -1,6 +1,6 @@
 # smartzdp.github.io
 
-This is the person homepage of smartzdp.
+This is the personal homepage of smartzdp.
 
 * Homework
   * QiShi Career Path Club:
