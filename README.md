@@ -25,8 +25,8 @@ Social Accounts: <a href="https://github.com/smartzdp/" target="_blank">GitHub</
 <br>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58q6ismn8n7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
 <br>
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174897709-1"></script>
+<br>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
