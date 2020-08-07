@@ -27,10 +27,4 @@ Social Accounts: <a href="https://github.com/smartzdp/" target="_blank">GitHub</
 <br>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174897709-1"></script>
 <br>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-174897709-1');
-</script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-174897709-1');</script>
