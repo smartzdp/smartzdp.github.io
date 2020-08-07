@@ -14,12 +14,10 @@ This is the personal homepage of smartzdp.
  * QiShi Career Path Club:
   * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/3rd%20Crypto%20Project%20Research%20Group" target="_blank">Crypto Quantitative Trading</a> (In Progress)
   * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/4th%20Kaggle%20Project%20Training%20Group" target="_blank">Kaggle Project</a> (Starting Soon)
- * Data Application Lab:
-  * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #1 - FinTech</a> (In Progress)
-  * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #2 - NLP</a> (In Progress)
-  * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #3 - Recommender System</a> (In Progress)
-  * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5">Kaggle M5 Forecasting - Accuracy</a> (In Progress)
-
-
+  * Data Application Lab:
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #1 - FinTech</a> (In Progress)
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #2 - NLP</a> (In Progress)
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #3 - Recommender System</a> (In Progress)
+    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5">Kaggle M5 Forecasting - Accuracy</a> (In Progress)
 
 Social Accounts: <a href="https://github.com/smartzdp/" target="_blank">GitHub</a>, <a href="https://leetcode.com/smartzdp/" target="_blank">LeetCode</a>, <a href="https://www.kaggle.com/smartzdp/" target="_blank">Kaggle</a>
