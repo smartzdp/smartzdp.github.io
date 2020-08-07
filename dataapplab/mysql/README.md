@@ -1,7 +1,7 @@
 ## Data Application Lab | SQL for Analyst
 
 * <a href="https://www.dataapplab.com/datascience/">Course Website</a>
-* <a href="https://github.com/smartzdp/Data-Application-Lab/edit/master/Data%20Scientist%20Bootcamp/Big%20Data%20for%20Data%20Scientist">GitHub Link</a>
+* <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/MySQL%20for%20Analyst">GitHub Link</a>
 * Operating Environment:
    * Big Data Cluster : <a href="https://montana.dataapplab.com/">Montana Hadoop Computing Cluster</a>
    * Local Environment : <a href="https://jupyter.org/">Jupyter Notebook</a> with <a href="https://github.com/NII-cloud-operation/sshkernel">SSH Kernel</a>
