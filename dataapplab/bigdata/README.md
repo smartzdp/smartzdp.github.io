@@ -11,4 +11,3 @@
    * <a href="https://smartzdp.github.io/dataapplab/bigdata/Big-Data-3-Spark-SQL.html">Big Data #3 - Spark SQL</a> : Basic SQL Operations using PySpark
    * <a href="https://smartzdp.github.io/dataapplab/bigdata/Big-Data-4-Spark-MLlib.html">Big Data #4 - Spark MLlib</a> : Spark MLlib Demo with the Iris Dataset
    * <a href="https://smartzdp.github.io/dataapplab/bigdata/Big-Data-5-Spark-GraphX.html">Big Data #5 - Spark GraphX</a> : Spark GraphX Demo
-   
