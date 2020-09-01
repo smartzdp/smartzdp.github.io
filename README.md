@@ -15,8 +15,8 @@ This is the personal homepage of smartzdp.
     * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/3rd%20Crypto%20Project%20Research%20Group" target="_blank">Crypto Quantitative Trading</a> (In Progress)
     * <a href="https://github.com/smartzdp/QiShi-Career-Path-Club/tree/master/4th%20Kaggle%20Project%20Training%20Group" target="_blank">Kaggle Project</a> (In Progress)
   * Data Application Lab:
-    * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #1 - FinTech</a> (In Progress)
-    * <a href="http://715c436ad705.ngrok.io" target="_blank">Capstone Project #2 - NLP</a> (In Progress)
+    * Capstone Project #1 - FinTech: <a href="https://smartzdp.github.io/dataapplab/capstone/CapstoneProject1_FinTech.html" target="_blank">Report</a> 
+    * Capstone Project #2 - NLP: <a href="https://smartzdp.github.io/dataapplab/capstone/CapstoneProject2_NLP.html" target="_blank">Report</a>, <a href="http://715c436ad705.ngrok.io" target="_blank">Demo</a>
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">Capstone Project #3 - Recommender System</a> (In Progress)
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5" target="_blank">Kaggle M5 Forecasting - Accuracy</a> (In Progress)
 
