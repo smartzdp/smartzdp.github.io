@@ -17,7 +17,7 @@ This is the personal homepage of smartzdp.
   * Data Application Lab:
     * Capstone Project #1 - FinTech: <a href="https://smartzdp.github.io/dataapplab/capstone/CapstoneProject1_FinTech.html" target="_blank">Report</a> 
     * Capstone Project #2 - NLP: <a href="https://smartzdp.github.io/dataapplab/capstone/CapstoneProject2_NLP.html" target="_blank">Report</a>, <a href="http://96c7604d4599.ngrok.io/" target="_blank">Demo</a>
-    * Capstone Project #3 - Recommender System: <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">GitHub</a> (To Upload), <a href="http://5f46cd7fcc2b.ngrok.io/" target="_blank">Demo</a>
+    * Capstone Project #3 - Recommender System: <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/DS%202003%20Project" target="_blank">GitHub</a> (To Upload), <a href="http://5f46cd7fcc2b.ngrok.io/" target="_blank">Demo</a> (Refresh when sqlalchemy error occured)
     * <a href="https://github.com/smartzdp/Data-Application-Lab/tree/master/Data%20Scientist%20Bootcamp/Kaggle%202020.4%20-%20M5" target="_blank">Kaggle M5 Forecasting - Accuracy</a> (To Upload)
 
 Social Accounts: <a href="https://github.com/smartzdp/" target="_blank">GitHub</a>, <a href="https://www.kaggle.com/smartzdp/" target="_blank">Kaggle</a>
