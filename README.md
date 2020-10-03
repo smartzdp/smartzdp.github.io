@@ -6,7 +6,7 @@ This is the personal homepage of smartzdp.
   * QiShi Career Path Club:
     * <a href="https://smartzdp.github.io/qishicpc/al007/">7th Algorithm Study Group</a>
     * <a href="https://smartzdp.github.io/qishicpc/ds004/">4th Data Structure Study Group</a>
-    * <a href="https://smartzdp.github.io/qishicpc/aa001/">1st Advanced Algorithm Study Group</a>
+    * <a href="https://smartzdp.github.io/qishicpc/aa001/">1st Advanced Algorithm Study Group</a> (In Progress)
   * Data Application Lab:
     * <a href="https://smartzdp.github.io/dataapplab/mysql/">SQL for Analyst</a>
     * <a href="https://smartzdp.github.io/dataapplab/bigdata/">Big Data for Data Scientist</a>
